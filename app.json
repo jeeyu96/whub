@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "wifeyhub",
-    "slug": "wifeyhub",
-    "scheme": "wifeyhub",
+    "name": "whub",
+    "slug": "whub",
+    "scheme": "whub",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
